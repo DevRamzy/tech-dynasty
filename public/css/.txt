@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-175563487-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-175563487-1');
+    </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Blog</title>
+    <script data-ad-client="ca-pub-1141528174744898" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>		
+    <link rel="apple-touch-icon" sizes="180x180" href="./img/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="./img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon/favicon-16x16.png">
+    <link rel="stylesheet" href="./css/blog.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+    <!-- Java Script Links-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+  </head>
+
+  <body>
+    <!--Banner Section-->
+    <div class="row">
+      <div class="banner col-md-6">
+        <img src="./img/TechBlog3.png" height="100%" width="100%" alt="">
+      </div>
+    </div>  
+    
+    <!--Intro Paragraph-->
+    <div class="row intro">
+      <div class="col-md-7">
+        <h3>Know the latest updates and trends on Digital World.</h3>
+        <p>
+          Get up-to-date trends and latest technologies introduced in the 
+          digital world. And get more updates on web technologies, 
+          marketing trends, web application development tools, and UI/UX 
+          design tools. Know more about the remote working culture, their 
+          advantages, and tools used to make remote working culture more 
+          productively. 
+        </p>
+      </div>
+    </div><!--End of Intro Paragraph-->
+
+    <!--Carousel Wrapper-->
+    <div id="example" class="carousel slide carousel-example" data-ride="carousel">
+
+      <!--Controls-->
+      <!-- <div class="controls-top">
+        <a href="#example" class="btn-floating" data-slide="prev"><i class="fas fa-chevron-left"></i></a>
+        <a href="#example" class="btn-floating" data-slide="prev"><i class="fas fa-chevron-right"></i></a>
+      </div> -->
+
+      <!--Slides Container-->
+      <div class="carousel-inner" role="listbox">
+
+        <!--First slide-->
+        <div class="carousel-item active">
+
+          <div class="col-md-3">
+            <div class="card mb-1">
+              <img src="" alt="card">
+              <div class="card-body">
+                <h4 class="card-title"> Card Little</h4>
+                <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, voluptates?</p>
+                <a href="" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+
+          
+        </div> <!--End of First slide-->
+        
+
+      </div> <!--End of Slides Container-->
+
+      
+    </div><!--End of Carousel Wrapper-->
+
+      
+            
+  </body>
+</html>
